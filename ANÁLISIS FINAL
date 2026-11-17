@@ -1,0 +1,59 @@
+Inicio de la campaña: 8/11/2026
+
+El primer dia de implementación de la campaña se crearon unos enlaces con UTM para identificar las redes por donde mas accedían las personas a la web, esto pudo ayudar al siguiente paso
+Se compartieron los enlaces sin una audiencia específica, por las redes de Whatsapp, Facebook, Instagram y el enlace del repositorio que tendría UTM github, se compartió en estados, familiares, contactos aleatorios, grupos etc.
+Este proceso se mantuvo durante 5 dias hasta el 12 de noviembre, dia en que se realizó el análisis de los datos hasta ese momento y los resultados fueron los siguientes:
+
+El primer día tuvo más sesiones que el resto con 53 sesiones de 69 que fueron en total entre los cuatro días, representando el 76% aproximadamente
+La red social con mayor número de sesiones fue Whatsapp con 31, seguido de Github con 19
+La explicación mas probable a esto es que al enviar los enlaces a personar random sin mucho contexto, la mayoría lo ignoraría, por pensar en que es spam o incluso estafas que frecuentan en cuba
+Lo que excluye a Whatsapp es que todos las personas son contactos míos, me conocen, y quizás si no interesa tanto, lo hicieron por caridad, lo cual no es el objetivo
+Para Github la explicación es simple, curiosidad de la competencia, al publicar mi repositorio y la web otros estudiantes entraron a la web para ver que tal estaba, la mayoría sin un interes real en la información que brinda
+
+
+Entonces, con toda esta información, se pueden tomar medidas ajustativas para aumentar la audiencia como las siguientes:
+
+Se implementó en la web un botón de compartir el resultado, de esta forma se podía crear una mayor competitividad por el ranking, además, al compartirlo, se envía una imagen con tus resultados en el quiz con el enlace adjunto, dando mejor presencia
+Además se añadió un cronómetro para decidir el puesto en el ranking para los empates, y crear de igual manera competitividad propia, quizas alguien queria batir record en menos tiempo
+A este botón de compartir se le añadieron identificadores para: Quienes dieron a compartir al terminar el test y quienes realmente compartieron (para diferenciar a quienes solo tocaron el boton y no compartieron)
+También se creó otro enlace con UTM "compartido" que estaría adjunto a la imagen que se comparte, de esta forma se identifica cuantos entraron desde un enlace que alguien compartió al finalizar el test
+
+El día 13 de noviembre inició la 2da ronda de promoción, esta vez con otra estrategia mas directa
+
+Se compartieron los enlaces con un público mas directo, específicamente personas ligadas a las carreas de Derecho y Relaciones Internacionales, ya que es un quiz sobre la ONU y pudiera generar mayor interes a esta audiencia
+Compartí en gupos de facebook de ambas carreras, no encontré manera de llegar a la audiencia desde Instagram (por eso prácticamente no hubieron sesiones), y logre conseguir algunos números de Whatsapp de estudiantes de ambas carreras
+De los estudiantes con los que hablé logre que dos de ellos publicaran el enlace en sus grupos de Whatsapp (Uno de cada carrera)
+
+Todo este proceso se mantuvo durante 4 días hasta hoy 16 de noviembre a las 22:30 y se obtuvieron los siguientes datos:
+
+Después de 4 dias con un promedio de 4 sesiones por dia aproximadamente, el 13 de noviembre hubo 32 nuevas sesiones, de las cuales 20 fueron solo de Whatsapp (Los grupos de Derecho y RI) y Desde compartidos (10 de cada uno)
+El día siguiente hubo 18 sesiones, Predominando Facebook con 6 y desde compartidos también con 6
+El 15 de noviembre fueron solo 4 sesiones, por lo que decidí republicar en los grupos de Facebook
+Esto funcionó ya que hoy 16 de noviembre se registraron 10 sesiones, las 10 desde Facebook
+
+Con todo esto podemos llegar a varias conclusiones sobre esta 2da ronda
+
+Primeramente, el botón de compartidos funcionó excelentemente bien ya que en todos los dias a excepción de hoy, mantuvo el mayor número de sesiones, empatado el 13 con Whatsapp y el 14 y 15 con Facebook
+
+Distribución de las sesiones a partir del 13 de noviembre:
+1.Facebook: 22
+2.Compartidos: 18
+3.Whatsapp: 13
+4.Github: 6
+5.Instagram: 2
+
+Viendo las rutas de las sesiones, se puede apreciar que esta vez Facebook fue el que más predominó, mientras que en la 1ra ronda solo hubo 1 sesión desde facebook
+Pero whatsapp tuvo en la 1ra ronda 38 sesiones y en esta última solo 13, la explicación es simple, esta 2da vez fue dirigido a personas que no eran conocidos míos, se elimina el factor "caridad" y solo queda verdadero interés
+Como solo pude llegar a 2 grupos, pues quizás ese sea un factor bastante importante para explicar la diferencia
+Para Github no hubo cambios, las 6 sesiones probablemente fueron los que no lo habían visto
+Instagram tuvo solo 2 sesiones, como no pude llegar al público objetivo solo compartí a 2 amigos de derecho por esta vía
+
+Entonces, Tuvieron resultados los cambios?
+La respuesta es si
+Si bien en la 1ra ronda se registraron 67 sesiones, en comparación de las 64 de la 2da ronda, esta última tuvo un día menos de análisis, y casi iguala la cifra
+Además, las sesiones se vieron mejor distribuídas, habiendo mas sesiones desde diferentes sitios y no solo Whatsapp como en la 1ra ronda que predominó con 38 sesiones, el 56.7% aproximadamente
+Otro cambio visible es la estabilidad, en la 1ra ronda casi el 80% de las sesiones se hicieron el 1er día, a diferencia de la 2da ronda que se vieron más equilibradas
+La explicación a esto es evidente, en la 1ra ronda la mayoría de personas solo entraron al enlace solo por ayudarme, en la 2da ronda entraron por interés real la mayor parte
+
+Entonces, en conclusión, la nueva manera si dio frutos, si bien ambas formas tuvieron casi las mismas cifras, en la 2da ronda si se logró el objetivo principal, llegar a más personas, informár y darle visibilidad
+
